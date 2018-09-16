@@ -1,0 +1,17 @@
+body {
+  font-family: 'Lato';
+  font-size: 1.2rem;
+  background: #831a83;
+}
+
+ul {
+  list-style-type: none;
+  padding: 20px;
+}
+
+li {
+  padding: 20px;
+  background: white;
+  border-radius: 15px;
+  margin-bottom: 5px;
+}
