@@ -11,7 +11,14 @@ ul {
 
 li {
   padding: 20px;
-  background: white;
   border-radius: 15px;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+#error li {
+  background: #c04621;
+}
+
+#output li {
+  background: white;
 }

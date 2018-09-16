@@ -1,3 +1,3 @@
-# Learn RxJS v.6.3
+#Learn RxJS v.6.3
 
-Install with _npm i_ then run with _npm run start_. Enjoy!
+Install with **npm i** then run with **npm run start**. Enjoy!
